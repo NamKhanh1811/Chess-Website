@@ -1,0 +1,7 @@
+com\chess\ChessBackendApplication.class
+com\chess\controller\AuthController.class
+com\chess\repository\UserRepository.class
+com\chess\service\JwtService.class
+com\chess\service\UserService.class
+com\chess\config\SecurityConfig.class
+com\chess\model\User.class
